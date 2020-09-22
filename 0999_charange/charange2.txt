@@ -1,0 +1,4 @@
+名前:with open("charange4.csv", "w", newline="", encoding="utf-8") as f:a
+身長:aa
+体重:a
+血液型:a
